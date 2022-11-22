@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
         color: Colors.red,
-        title: 'Flutter Test 2 Merge  Branch',
+        title: 'Flutter',
         home:  Scaffold()
     );
   }
@@ -29,5 +29,9 @@ class MyApp extends StatelessWidget {
         Text('data'),
       ],
     );
+  }
+
+  twitter(){
+    return const Text("Branch 2");
   }
 }
