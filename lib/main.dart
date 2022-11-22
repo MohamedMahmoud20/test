@@ -16,4 +16,9 @@ class MyApp extends StatelessWidget {
         home:  Scaffold()
     );
   }
+
+  faceBook(){
+
+    return const Text("data");
+  }
 }
