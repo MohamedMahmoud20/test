@@ -32,6 +32,6 @@ class MyApp extends StatelessWidget {
   }
 
   twitter(){
-    return const Text("Branch 2");
+    return const Text("2");
   }
 }
