@@ -22,7 +22,6 @@ class MyApp extends StatelessWidget {
     return  Column(
       children: const [
         Text('data'),
-        Text(":")
       ],
     );
   }
