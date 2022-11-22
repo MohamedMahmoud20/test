@@ -21,4 +21,8 @@ class MyApp extends StatelessWidget {
 
     return const Text("data");
   }
+
+  google(){
+    return const Text("data");
+  }
 }
