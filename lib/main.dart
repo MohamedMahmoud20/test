@@ -19,6 +19,11 @@ class MyApp extends StatelessWidget {
 
   google(){
 
-    return const Text("data");
+    return  Column(
+      children: const [
+        Text('data'),
+        Text(":")
+      ],
+    );
   }
 }
