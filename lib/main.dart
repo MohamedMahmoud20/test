@@ -16,4 +16,8 @@ class MyApp extends StatelessWidget {
       home:  Scaffold()
     );
   }
+
+  google(){
+    return const Text("data");
+  }
 }
