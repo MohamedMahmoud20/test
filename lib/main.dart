@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       color: Colors.red,
-      title: 'Flutter Test 1 Merge',
+      title: 'Flutter Test 1 Merge Test Current Branch',
       home:  MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
